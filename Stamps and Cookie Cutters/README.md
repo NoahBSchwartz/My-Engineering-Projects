@@ -1,4 +1,5 @@
 # Stamps and Cookie Cutters
+I used Fusion 360 to design several stamps and cookie cutters for a local pottery business and a local bakery. 
 
 <img width="784" alt="Screen Shot 2022-02-03 at 11 18 04 PM" src="https://user-images.githubusercontent.com/44248582/152481825-db4b78e6-0cf4-4a9e-b59e-d9eb92e5e9bd.png">
 <img width="416" alt="Screen Shot 2022-02-03 at 11 18 18 PM" src="https://user-images.githubusercontent.com/44248582/152481827-405297b5-8d00-44a3-8db5-6a8f8e162fa9.png">
